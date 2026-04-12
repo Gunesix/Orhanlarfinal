@@ -17,7 +17,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: '1-vid',
-    url: '/images/gallery/1.mp4',
+    url: 'https://res.cloudinary.com/orhanlar/video/upload/v1776006421/1_mjnzvz.mp4',
     title: 'Hafriyat Video',
     category: 'Hafriyat',
     type: 'video'
@@ -122,7 +122,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: '16-vid',
-    url: '/images/gallery/16.mp4',
+    url: 'https://res.cloudinary.com/orhanlar/video/upload/v1776006421/16_ltlx2j.mp4',
     title: 'Çalışma Videosu',
     category: 'Hafriyat',
     type: 'video'

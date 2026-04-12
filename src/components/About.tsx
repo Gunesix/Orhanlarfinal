@@ -35,7 +35,7 @@ export default function About() {
   const subtitle = settings?.aboutSubtitle || "Hakkımızda";
   const description1 = settings?.aboutDescription1 || "Orhanlar Hafriyat olarak, Muğla Dalaman ve çevresinde uzun yıllardır inşaat sektörünün temel taşı olan hafriyat ve kazı işlerinde hizmet vermekteyiz. Modern iş makinelerimiz ve deneyimli operatörlerimizle, her ölçekteki projeyi titizlikle yürütüyoruz.";
   const description2 = settings?.aboutDescription2 || "Müşteri memnuniyetini ve güveni her zaman ön planda tutarak, Dalaman'ın gelişen mimarisine sağlam temeller atıyoruz.";
-  const image = settings?.aboutImage || galleryImage;
+  const image = settings?.aboutImage || 'https://res.cloudinary.com/orhanlar/image/upload/v1776005952/huzog36hnnmcvjz5ns5c.jpg';
   const experience = settings?.aboutExperience || "23+";
   const features = settings?.aboutFeatures || defaultFeatures;
 

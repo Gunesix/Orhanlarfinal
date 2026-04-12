@@ -9,8 +9,8 @@ const defaultSettings = {
   contactInfo: {
     phone: "0535 776 09 94",
     whatsapp: "905357760994",
-    email: "info@orhanlarhafriyat.com",
-    address: "Dalaman, Muğla"
+    email: "Orhanlarhafriyat@gmail.com",
+    address: "Merkez Mah. Turgut Reis 10. Sk. No:1 Dalaman, Muğla"
   }
 };
 

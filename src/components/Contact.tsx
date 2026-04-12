@@ -27,9 +27,9 @@ export default function Contact() {
   const { settings } = useSettings();
 
   const contactInfo = settings?.contactInfo || {};
-  const address = contactInfo.address || "Merkez Mah. Turgut reis 10. Sokak No:1 Dalaman Muğla";
+  const address = contactInfo.address || "Merkez Mah. Turgut Reis 10. Sk. No:1 Dalaman, Muğla";
   const phone = contactInfo.phone || "0535 776 09 94";
-  const email = contactInfo.email || "info@orhanlarhafriyat.com";
+  const email = contactInfo.email || "orhanlarhafriyat@gmail.com";
 
   // Extract geo coordinates from JSON-LD schema
   useEffect(() => {
