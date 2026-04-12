@@ -4,12 +4,12 @@ import { useState, useEffect } from 'react';
 import { getGallery } from '../services/galleryService';
 import { useSettings } from '../hooks/useSettings';
 
-import img1 from '@/src/assets/gallery/1.jpeg';
-import img13 from '@/src/assets/gallery/13.jpeg';
-import img2 from '@/src/assets/gallery/2.jpeg';
-import img5 from '@/src/assets/gallery/5.jpeg';
-import img4 from '@/src/assets/gallery/4.jpeg';
-import img3 from '@/src/assets/gallery/3.jpeg';
+import img1 from '../assets/gallery/1.jpeg';
+import img13 from '../assets/gallery/13.jpeg';
+import img2 from '../assets/gallery/2.jpeg';
+import img5 from '../assets/gallery/5.jpeg';
+import img4 from '../assets/gallery/4.jpeg';
+import img3 from '../assets/gallery/3.jpeg';
 
 export default function Projects() {
   const [activeFilter, setActiveFilter] = useState('Tümü');
