@@ -5,6 +5,13 @@ import { getGallery } from '../services/galleryService';
 import { useSettings } from '../hooks/useSettings';
 
 
+import img1 from '@/src/assets/gallery/1.jpeg';
+import img13 from '@/src/assets/gallery/13.jpeg';
+import img2 from '@/src/assets/gallery/2.jpeg';
+import img5 from '@/src/assets/gallery/5.jpeg';
+import img4 from '@/src/assets/gallery/4.jpeg';
+import img3 from '@/src/assets/gallery/3.jpeg';
+
 export default function Projects() {
   const [activeFilter, setActiveFilter] = useState('Tümü');
   const [selectedProject, setSelectedProject] = useState<any | null>(null);
@@ -27,7 +34,7 @@ export default function Projects() {
     {
       title: 'Dalaman Havalimanı Yolu',
       category: 'Yol Yapımı & Altyapı',
-      image: '/images/gallery/1.jpeg',
+      image: img1,
       description: 'Dalaman Havalimanı bağlantı yollarının genişletilmesi ve altyapı yenileme çalışmaları kapsamında 5 km\'lik yolun kazı, dolgu ve asfalt hazırlık işlemleri başarıyla tamamlanmıştır. Proje, yoğun trafiği aksatmadan gece gündüz vardiyalı çalışılarak hedeflenen süreden önce teslim edilmiştir.',
       completionDate: 'Ağustos 2023',
       additionalImages: []
@@ -35,7 +42,7 @@ export default function Projects() {
     {
       title: 'Lüks Villa Temel Kazısı',
       category: 'Hafriyat ve Kazı',
-      image: '/images/gallery/13.jpeg',
+      image: img13,
       description: 'Göcek bölgesinde yer alan 4 adet lüks villanın temel kazısı, çevre düzenlemesi ve istinat duvarı dolgu işlemleri gerçekleştirilmiştir. Kayalık zemin yapısına rağmen özel kırıcı ataşmanlı iş makinelerimizle çevreye zarar vermeden güvenli bir şekilde tamamlanmıştır.',
       completionDate: 'Kasım 2023',
       additionalImages: []
@@ -43,7 +50,7 @@ export default function Projects() {
     {
       title: 'Sanayi Bölgesi Tesviye',
       category: 'Endüstriyel Alan',
-      image: '/images/gallery/2.jpeg',
+      image: img2,
       description: 'Yeni kurulan sanayi sitesi için 20.000 metrekarelik alanın zemin tesviyesi, kot ayarlaması ve stabilize malzeme serimi yapılmıştır. Lazerli nivo sistemleri kullanılarak milimetrik hassasiyetle zemin beton dökümüne hazır hale getirilmiştir.',
       completionDate: 'Ocak 2024',
       additionalImages: []
@@ -51,7 +58,7 @@ export default function Projects() {
     {
       title: 'Eski Fabrika Yıkımı',
       category: 'Yıkım Hizmetleri',
-      image: '/images/gallery/5.jpeg',
+      image: img5,
       description: 'Kullanım ömrünü tamamlamış eski zeytinyağı fabrikasının çevre güvenliği alınarak kontrollü yıkımı gerçekleştirilmiştir. Çıkan molozlar ayrıştırılarak geri dönüşüm tesislerine ve döküm sahalarına nakledilmiştir.',
       completionDate: 'Şubat 2024',
       additionalImages: []
@@ -59,7 +66,7 @@ export default function Projects() {
     {
       title: 'Toplu Konut Altyapısı',
       category: 'Yol Yapımı & Altyapı',
-      image: '/images/gallery/4.jpeg',
+      image: img4,
       description: '120 dairelik toplu konut projesinin kanalizasyon, yağmur suyu ve içme suyu hatları için derin kazı işlemleri yapılmıştır. İş güvenliği standartlarına uygun olarak iksa sistemleri kullanılmış ve boru döşeme sonrası kum dolgusu yapılmıştır.',
       completionDate: 'Aralık 2023',
       additionalImages: []
@@ -67,7 +74,7 @@ export default function Projects() {
     {
       title: 'Otel Havuz Kazısı',
       category: 'Hafriyat ve Kazı',
-      image: '/images/gallery/3.jpeg',
+      image: img3,
       description: 'Sarıgerme bölgesindeki 5 yıldızlı bir otelin yarı olimpik yüzme havuzu ve çocuk havuzu için kademeli kazı işlemleri gerçekleştirilmiştir. Dar alanda mini ekskavatörler kullanılarak çevre peyzajına zarar verilmeden işlem tamamlanmıştır.',
       completionDate: 'Mart 2024',
       additionalImages: []
