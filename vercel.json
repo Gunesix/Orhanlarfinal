@@ -5,7 +5,7 @@
       "destination": "/api/$1"
     },
     {
-      "source": "/((?!api/|images/|favicon.svg).*)",
+      "source": "/((?!api/|_next/|static/|images/|favicon.svg).*)",
       "destination": "/index.html"
     }
   ]
