@@ -1,15 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://orhanlarhafriyat.com/</loc>
-    <lastmod>2026-04-10</lastmod>
+    <loc>https://www.orhanlarhafriyat.com/</loc>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://orhanlarhafriyat.com/admin</loc>
+    <loc>https://www.orhanlarhafriyat.com/blog/dalaman-hafriyat-ve-kazi-i-slerinde-profesyonel-cozumler</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/temel-kazma-ve-temel-doldurma-sureclerinde-dikkat-edilmesi-gerekenler</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/dalaman-havuz-kazisi-hayalinizdeki-havuza-giden-i-lk-adim</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/orhanlar-hafriyat-ile-guvenilir-ve-hizli-altyapi-calismalari</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/dalaman-kazi-i-sleri-zorlu-arazilerde-uzman-dokunusu</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/hafriyat-sektorunde-teknolojinin-rolu-ve-orhanlar-farki</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/dalaman-orhanlar-ile-cevreye-duyarli-hafriyat-uygulamalari</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/i-nsaat-projelerinde-dogru-hafriyat-firmasi-seciminin-onemi</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/temel-doldurma-i-slemlerinde-kullanilan-malzemeler-ve-yontemler</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/mugla-dalaman-bolgesinde-hafriyat-ve-kazi-maliyetlerini-belirleyen-faktorler</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/dalaman-kepceci-ve-hafriyat-hizmetlerinde-guvenilir-adres-orhanlar-hafriyat</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
