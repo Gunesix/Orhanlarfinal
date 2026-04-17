@@ -1,4 +1,5 @@
 import express from "express";
+import fs from "fs";
 import { createServer as createViteServer } from "vite";
 import nodemailer from "nodemailer";
 import path from "path";
@@ -90,12 +91,68 @@ ${message}
       server: { middlewareMode: true },
       appType: "spa",
     });
-    app.use(vite.middlewares);
+    
+    // Inject Meta Tags dynamically in DEV MODE
+    app.use('*', async (req, res, next) => {
+      // Do not intercept API requests or static assets
+      if (req.originalUrl.startsWith('/api/') || req.originalUrl.includes('.')) {
+        return next();
+      }
+      
+      try {
+        let template = await fs.promises.readFile(path.resolve(process.cwd(), 'index.html'), 'utf-8');
+        template = await vite.transformIndexHtml(req.originalUrl, template);
+
+        if (req.originalUrl.startsWith('/blog/')) {
+          const slug = req.originalUrl.split('/')[2];
+          const { blogPosts } = await import('./src/data/blogPosts');
+          const post = blogPosts.find((p: any) => p.slug === slug || p.id === slug);
+          if (post) {
+             template = template.replace(
+                /<title>(.*?)<\/title>/,
+                `<title>${post.title} | Orhanlar Hafriyat</title>`
+             ).replace(
+                /<meta name="description" content="(.*?)" \/>/,
+                `<meta name="description" content="${post.excerpt}" />`
+             );
+          }
+        }
+        res.status(200).set({ 'Content-Type': 'text/html' }).end(template);
+      } catch (e: any) {
+        vite.ssrFixStacktrace(e);
+        next(e);
+      }
+    });
+
   } else {
     const distPath = path.join(process.cwd(), 'dist');
-    app.use(express.static(distPath));
-    app.get('*', (req, res) => {
-      res.sendFile(path.join(distPath, 'index.html'));
+    app.use(express.static(distPath, { index: false })); // do not serve index.html automatically
+    
+    app.get('*', async (req, res, next) => {
+      if (req.originalUrl.startsWith('/api/')) return next();
+      
+      try {
+        let html = await fs.promises.readFile(path.join(distPath, 'index.html'), 'utf-8');
+        
+        if (req.originalUrl.startsWith('/blog/')) {
+          const slug = req.originalUrl.split('/')[2];
+          // use dynamic import to avoid failing if not built the same way
+          const { blogPosts } = await import('./src/data/blogPosts');
+          const post = blogPosts.find((p: any) => p.slug === slug || p.id === slug);
+          if (post) {
+             html = html.replace(
+                /<title>(.*?)<\/title>/,
+                `<title>${post.title} | Orhanlar Hafriyat</title>`
+             ).replace(
+                /<meta name="description" content="(.*?)" \/>/,
+                `<meta name="description" content="${post.excerpt}" />`
+             );
+          }
+        }
+        res.send(html);
+      } catch (err) {
+        res.status(500).send("Error reading HTML file");
+      }
     });
   }
 
