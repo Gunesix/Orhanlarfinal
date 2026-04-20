@@ -8,8 +8,9 @@ export default function Blog() {
   const [page, setPage] = useState(1);
   const POSTS_PER_PAGE = 6;
 
-  const totalPages = Math.ceil(blogPosts.length / POSTS_PER_PAGE);
-  const currentPosts = blogPosts.slice((page - 1) * POSTS_PER_PAGE, page * POSTS_PER_PAGE);
+  const sortedPosts = [...blogPosts].sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
+  const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE);
+  const currentPosts = sortedPosts.slice((page - 1) * POSTS_PER_PAGE, page * POSTS_PER_PAGE);
 
   const handleNextPage = () => {
     if (page < totalPages) {
