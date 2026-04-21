@@ -126,4 +126,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/gocek-hafriyat-firmalari-arasinda-orhanlar-guvencesi</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/ortaca-hafriyat-ve-saatlik-kepce-kiralama-hizmetleri</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.orhanlarhafriyat.com/blog/dalaman-havuz-temel-kazisi-ve-peyzaj-tesviyesi-uzmani</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
