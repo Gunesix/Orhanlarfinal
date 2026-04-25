@@ -89,13 +89,15 @@ ${message}
   if (process.env.NODE_ENV !== "production") {
     const vite = await createViteServer({
       server: { middlewareMode: true },
-      appType: "spa",
+      appType: "custom", // Important: strictly "custom" so it doesn't intercept HTML!
     });
     
+    app.use(vite.middlewares);
+
     // Inject Meta Tags dynamically in DEV MODE
     app.use('*', async (req, res, next) => {
       // Do not intercept API requests or static assets
-      if (req.originalUrl.startsWith('/api/') || req.originalUrl.includes('.')) {
+      if (req.originalUrl.startsWith('/api/')) {
         return next();
       }
       
