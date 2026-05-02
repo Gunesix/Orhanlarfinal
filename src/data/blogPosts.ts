@@ -290,4 +290,306 @@ export const blogPosts = [
     "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/huzog36hnnmcvjz5ns5c.jpg",
     "createdAt": "2026-04-25T10:30:00.000Z"
   }
+,
+  {
+      "id": "post-30",
+      "title": "Dalaman'da inşaat öncesi temel kazısı nasıl yapılır?",
+      "slug": "dalaman-da-insaat-oncesi-temel-kazisi-nasil-yapilir",
+      "excerpt": "Dalaman'da inşaat öncesi temel kazısı nasıl yapılır? hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Dalaman'da inşaat öncesi temel kazısı nasıl yapılır?\n\nDalaman'da inşaat öncesi temel kazısı nasıl yapılır? konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Dalaman'da inşaat öncesi temel kazısı nasıl yapılır? konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Hafriyat",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/imhwrsdwxd9iprgyyoco.jpg",
+      "createdAt": "2026-04-30T11:00:00.000Z"
+  },
+  {
+      "id": "post-31",
+      "title": "2026 Muğla Dalaman günlük kepçe kiralama fiyatları",
+      "slug": "2026-mugla-dalaman-gunluk-kepce-kiralama-fiyatlari",
+      "excerpt": "2026 Muğla Dalaman günlük kepçe kiralama fiyatları hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# 2026 Muğla Dalaman günlük kepçe kiralama fiyatları\n\n2026 Muğla Dalaman günlük kepçe kiralama fiyatları konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; 2026 Muğla Dalaman günlük kepçe kiralama fiyatları konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "İş Makineleri",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/zf9appdpm9llcssusw0o.jpg",
+      "createdAt": "2026-04-30T12:00:00.000Z"
+  },
+  {
+      "id": "post-32",
+      "title": "Kontrollü bina yıkımı öncesi alınması gereken izinler (Muğla)",
+      "slug": "kontrollu-bina-yikimi-oncesi-alinmasi-gereken-izinler-mugla",
+      "excerpt": "Kontrollü bina yıkımı öncesi alınması gereken izinler (Muğla) hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Kontrollü bina yıkımı öncesi alınması gereken izinler (Muğla)\n\nKontrollü bina yıkımı öncesi alınması gereken izinler (Muğla) konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Kontrollü bina yıkımı öncesi alınması gereken izinler (Muğla) konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Yıkım",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/pgpuy219uol8brfcce0o.jpg",
+      "createdAt": "2026-04-30T13:00:00.000Z"
+  },
+  {
+      "id": "post-33",
+      "title": "Hafriyat döküm sahaları: Dalaman'da moloz atımı nereye yapılır?",
+      "slug": "hafriyat-dokum-sahalari-dalaman-da-moloz-atimi-nereye-yapilir",
+      "excerpt": "Hafriyat döküm sahaları: Dalaman'da moloz atımı nereye yapılır? hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Hafriyat döküm sahaları: Dalaman'da moloz atımı nereye yapılır?\n\nHafriyat döküm sahaları: Dalaman'da moloz atımı nereye yapılır? konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Hafriyat döküm sahaları: Dalaman'da moloz atımı nereye yapılır? konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Genel Bilgi",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/huzog36hnnmcvjz5ns5c.jpg",
+      "createdAt": "2026-04-30T14:00:00.000Z"
+  },
+  {
+      "id": "post-34",
+      "title": "Mini ekskavatör ile dar alanlarda çevre düzenlemesi",
+      "slug": "mini-ekskavator-ile-dar-alanlarda-cevre-duzenlemesi",
+      "excerpt": "Mini ekskavatör ile dar alanlarda çevre düzenlemesi hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Mini ekskavatör ile dar alanlarda çevre düzenlemesi\n\nMini ekskavatör ile dar alanlarda çevre düzenlemesi konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Mini ekskavatör ile dar alanlarda çevre düzenlemesi konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Kurumsal",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/t5poqvzjrnaztsd7apyy.jpg",
+      "createdAt": "2026-04-30T15:00:00.000Z"
+  },
+  {
+      "id": "post-35",
+      "title": "İnşaat hafriyatı hesaplama yöntemleri",
+      "slug": "i-nsaat-hafriyati-hesaplama-yontemleri",
+      "excerpt": "İnşaat hafriyatı hesaplama yöntemleri hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# İnşaat hafriyatı hesaplama yöntemleri\n\nİnşaat hafriyatı hesaplama yöntemleri konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; İnşaat hafriyatı hesaplama yöntemleri konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Hafriyat",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/xodm170halulz1ni9k2o.jpg",
+      "createdAt": "2026-04-30T16:00:00.000Z"
+  },
+  {
+      "id": "post-36",
+      "title": "Zemin etüdü ve hafriyat ilişkisi neden önemlidir?",
+      "slug": "zemin-etudu-ve-hafriyat-iliskisi-neden-onemlidir",
+      "excerpt": "Zemin etüdü ve hafriyat ilişkisi neden önemlidir? hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Zemin etüdü ve hafriyat ilişkisi neden önemlidir?\n\nZemin etüdü ve hafriyat ilişkisi neden önemlidir? konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Zemin etüdü ve hafriyat ilişkisi neden önemlidir? konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "İş Makineleri",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/ujyfa9pfrsl8vtbhlxjr.jpg",
+      "createdAt": "2026-04-30T17:00:00.000Z"
+  },
+  {
+      "id": "post-37",
+      "title": "Kiralık kepçe seçerken nelere dikkat edilmeli?",
+      "slug": "kiralik-kepce-secerken-nelere-dikkat-edilmeli",
+      "excerpt": "Kiralık kepçe seçerken nelere dikkat edilmeli? hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Kiralık kepçe seçerken nelere dikkat edilmeli?\n\nKiralık kepçe seçerken nelere dikkat edilmeli? konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Kiralık kepçe seçerken nelere dikkat edilmeli? konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Yıkım",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/vsyrrm3zvbrg7ot1qpyz.jpg",
+      "createdAt": "2026-04-30T18:00:00.000Z"
+  },
+  {
+      "id": "post-38",
+      "title": "JCB iş makinesi kiralama avantajları",
+      "slug": "jcb-is-makinesi-kiralama-avantajlari",
+      "excerpt": "JCB iş makinesi kiralama avantajları hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# JCB iş makinesi kiralama avantajları\n\nJCB iş makinesi kiralama avantajları konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; JCB iş makinesi kiralama avantajları konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Genel Bilgi",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/imhwrsdwxd9iprgyyoco.jpg",
+      "createdAt": "2026-04-30T19:00:00.000Z"
+  },
+  {
+      "id": "post-39",
+      "title": "Tarla düzeltme ve tesviye işleri nasıl yapılır?",
+      "slug": "tarla-duzeltme-ve-tesviye-isleri-nasil-yapilir",
+      "excerpt": "Tarla düzeltme ve tesviye işleri nasıl yapılır? hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Tarla düzeltme ve tesviye işleri nasıl yapılır?\n\nTarla düzeltme ve tesviye işleri nasıl yapılır? konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Tarla düzeltme ve tesviye işleri nasıl yapılır? konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Kurumsal",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/zf9appdpm9llcssusw0o.jpg",
+      "createdAt": "2026-04-30T20:00:00.000Z"
+  },
+  {
+      "id": "post-40",
+      "title": "Su kanalı ve altyapı kazılarında güvenlik önlemleri",
+      "slug": "su-kanali-ve-altyapi-kazilarinda-guvenlik-onlemleri",
+      "excerpt": "Su kanalı ve altyapı kazılarında güvenlik önlemleri hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Su kanalı ve altyapı kazılarında güvenlik önlemleri\n\nSu kanalı ve altyapı kazılarında güvenlik önlemleri konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Su kanalı ve altyapı kazılarında güvenlik önlemleri konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Hafriyat",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/pgpuy219uol8brfcce0o.jpg",
+      "createdAt": "2026-04-30T21:00:00.000Z"
+  },
+  {
+      "id": "post-41",
+      "title": "Eski bina yıkım maliyetleri nasıl hesaplanır?",
+      "slug": "eski-bina-yikim-maliyetleri-nasil-hesaplanir",
+      "excerpt": "Eski bina yıkım maliyetleri nasıl hesaplanır? hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Eski bina yıkım maliyetleri nasıl hesaplanır?\n\nEski bina yıkım maliyetleri nasıl hesaplanır? konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Eski bina yıkım maliyetleri nasıl hesaplanır? konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "İş Makineleri",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/huzog36hnnmcvjz5ns5c.jpg",
+      "createdAt": "2026-04-30T22:00:00.000Z"
+  },
+  {
+      "id": "post-42",
+      "title": "Dalaman bölgesinde kayalık zemin kırma işlemleri (Kırıcı kepçe)",
+      "slug": "dalaman-bolgesinde-kayalik-zemin-kirma-islemleri-kirici-kepce",
+      "excerpt": "Dalaman bölgesinde kayalık zemin kırma işlemleri (Kırıcı kepçe) hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Dalaman bölgesinde kayalık zemin kırma işlemleri (Kırıcı kepçe)\n\nDalaman bölgesinde kayalık zemin kırma işlemleri (Kırıcı kepçe) konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Dalaman bölgesinde kayalık zemin kırma işlemleri (Kırıcı kepçe) konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Yıkım",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/t5poqvzjrnaztsd7apyy.jpg",
+      "createdAt": "2026-04-30T23:00:00.000Z"
+  },
+  {
+      "id": "post-43",
+      "title": "Bahçe peyzajı öncesi toprak taşıma ve dolgu işleri",
+      "slug": "bahce-peyzaji-oncesi-toprak-tasima-ve-dolgu-isleri",
+      "excerpt": "Bahçe peyzajı öncesi toprak taşıma ve dolgu işleri hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Bahçe peyzajı öncesi toprak taşıma ve dolgu işleri\n\nBahçe peyzajı öncesi toprak taşıma ve dolgu işleri konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Bahçe peyzajı öncesi toprak taşıma ve dolgu işleri konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Genel Bilgi",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/xodm170halulz1ni9k2o.jpg",
+      "createdAt": "2026-05-01T00:00:00.000Z"
+  },
+  {
+      "id": "post-44",
+      "title": "Hafriyat sözleşmesi hazırlarken dikkat edilmesi gerekenler",
+      "slug": "hafriyat-sozlesmesi-hazirlarken-dikkat-edilmesi-gerekenler",
+      "excerpt": "Hafriyat sözleşmesi hazırlarken dikkat edilmesi gerekenler hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Hafriyat sözleşmesi hazırlarken dikkat edilmesi gerekenler\n\nHafriyat sözleşmesi hazırlarken dikkat edilmesi gerekenler konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Hafriyat sözleşmesi hazırlarken dikkat edilmesi gerekenler konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Kurumsal",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/ujyfa9pfrsl8vtbhlxjr.jpg",
+      "createdAt": "2026-05-01T01:00:00.000Z"
+  },
+  {
+      "id": "post-45",
+      "title": "İstinat duvarı kazısı teknik detayları",
+      "slug": "i-stinat-duvari-kazisi-teknik-detaylari",
+      "excerpt": "İstinat duvarı kazısı teknik detayları hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# İstinat duvarı kazısı teknik detayları\n\nİstinat duvarı kazısı teknik detayları konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; İstinat duvarı kazısı teknik detayları konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Hafriyat",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/vsyrrm3zvbrg7ot1qpyz.jpg",
+      "createdAt": "2026-05-01T02:00:00.000Z"
+  },
+  {
+      "id": "post-46",
+      "title": "Muğla'da havuz yapımı için kazı işlemleri",
+      "slug": "mugla-da-havuz-yapimi-icin-kazi-islemleri",
+      "excerpt": "Muğla'da havuz yapımı için kazı işlemleri hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Muğla'da havuz yapımı için kazı işlemleri\n\nMuğla'da havuz yapımı için kazı işlemleri konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Muğla'da havuz yapımı için kazı işlemleri konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "İş Makineleri",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/imhwrsdwxd9iprgyyoco.jpg",
+      "createdAt": "2026-05-01T03:00:00.000Z"
+  },
+  {
+      "id": "post-47",
+      "title": "İş güvenliği standartlarına uygun hafriyat firması seçimi",
+      "slug": "i-s-guvenligi-standartlarina-uygun-hafriyat-firmasi-secimi",
+      "excerpt": "İş güvenliği standartlarına uygun hafriyat firması seçimi hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# İş güvenliği standartlarına uygun hafriyat firması seçimi\n\nİş güvenliği standartlarına uygun hafriyat firması seçimi konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; İş güvenliği standartlarına uygun hafriyat firması seçimi konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Yıkım",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/zf9appdpm9llcssusw0o.jpg",
+      "createdAt": "2026-05-01T04:00:00.000Z"
+  },
+  {
+      "id": "post-48",
+      "title": "Kış aylarında hafriyat ve kazı çalışmalarının zorlukları",
+      "slug": "kis-aylarinda-hafriyat-ve-kazi-calismalarinin-zorluklari",
+      "excerpt": "Kış aylarında hafriyat ve kazı çalışmalarının zorlukları hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Kış aylarında hafriyat ve kazı çalışmalarının zorlukları\n\nKış aylarında hafriyat ve kazı çalışmalarının zorlukları konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Kış aylarında hafriyat ve kazı çalışmalarının zorlukları konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Genel Bilgi",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/pgpuy219uol8brfcce0o.jpg",
+      "createdAt": "2026-05-01T05:00:00.000Z"
+  },
+  {
+      "id": "post-49",
+      "title": "Moloz ve inşaat atığı geri dönüşümü nasıl olur?",
+      "slug": "moloz-ve-insaat-atigi-geri-donusumu-nasil-olur",
+      "excerpt": "Moloz ve inşaat atığı geri dönüşümü nasıl olur? hakkında merak edilen her şey. Dalaman ve çevre bölgelerdeki hafriyat hizmetlerinde Orhanlar kalite farkı.",
+      "content": "# Moloz ve inşaat atığı geri dönüşümü nasıl olur?\n\nMoloz ve inşaat atığı geri dönüşümü nasıl olur? konusu, Muğla Dalaman bölgesinde inşaat ve hafriyat alanında faaliyet gösteren firmalar için büyük önem taşımaktadır. Orhanlar Hafriyat olarak, uzun yıllara dayanan deneyimimizle bu alanda profesyonel çözümler sunuyoruz.\n\n## Sürecin İncelikleri\nİster büyük çaplı kentsel dönüşüm projesi olsun, ister bireysel arsa düzenlemesi; Moloz ve inşaat atığı geri dönüşümü nasıl olur? konusunda doğru adımlar atılması projenin maliyetini ve süresini doğrudan etkiler. Dalaman hafriyat hizmetlerimizle toprağı en verimli şekilde işleyerek, arazinizin değerine değer katmaktayız.\n\n## Dikkat Edilmesi Gereken Yasal ve Teknik Süreçler\nÖzellikle bölgemiz coğrafi şartları göz önüne alındığında, işlemler sadece kazıdan ibaret değildir:\n*   **Doğru Planlama:** İşe başlamadan zemin özellikleri analiz edilmeli.\n*   **İş Güvenliği:** Çalışma sahasında maksimum güvenlik önlemleri alınmalı.\n*   **Çevre Düzeni:** Çevreye verilen rahatsızlığı en aza indirmek ve moloz/atık yönetimini yasal sınırlara uygun yapmak.\n\nDalaman Kepçe kiralama, hafriyat nakliye ve diğer iş makineleri ihtiyaçlarınızda Orhanlar Dalaman her daim yanınızda! Detaylı bilgi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.\n",
+      "category": "Kurumsal",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/huzog36hnnmcvjz5ns5c.jpg",
+      "createdAt": "2026-05-01T06:00:00.000Z"
+  }
+,
+  {
+      "id": "post-50",
+      "title": "Dalaman Hafriyat Fiyatları 2026: Güncel Maliyetler ve Hesaplama",
+      "slug": "dalaman-hafriyat-fiyatlari-2026-guncel-maliyetler",
+      "excerpt": "2026 yılında Dalaman bölgesinde hafriyat, kazı ve moloz döküm fiyatları ne kadar? Maliyetleri etkileyen faktörleri detaylıca inceliyoruz.",
+      "content": "# Dalaman Hafriyat Fiyatları 2026: Güncel Maliyetler ve Hesaplama\n\nMuğla Dalaman ve çevresinde inşaat sektörünün hız kesmeden devam etmesi, hafriyat ihtiyacını da artırıyor. Peki, **Dalaman hafriyat fiyatları 2026** yılında ne durumda? Arsasına ev yaptırmak, temel kazdırmak veya eski binasını yıktırmak isteyenler için maliyetler nasıl hesaplanıyor?\n\n## Hafriyat Fiyatlarını Belirleyen Temel Unsurlar\n\nHafriyat sektöründe sabit bir fiyat listesi vermek zordur çünkü her arazinin dinamiği farklıdır. Fiyatları doğrudan etkileyen unsurlar şunlardır:\n\n1.  **Toprağın Yapısı:** Yumuşak toprak ile kayalık zemin arasında ciddi kırım/kazı maliyeti farkı vardır. Kayalık zeminlerde pnömatik kırıcı (tabanca) kullanılması gerektiği için saatlik çalışma süresi ve yakıt tüketimi artar.\n2.  **Hafriyat Miktarı (Metreküp):** Çıkarılacak toprağın veya molozun hacmi büyüdükçe, taşıma yapacak kamyon sayısı (sefer sayısı) artar.\n3.  **Döküm Sahasına Uzaklık:** Çıkan hafriyatın resmi döküm sahalarına nakliyesi, maliyetin önemli bir kalemidir. Mesafe uzadıkça sefer başı nakliye ücreti yükselir.\n4.  **Çalışma Alanının Darlığı:** Sıkışık nizam sokaklarda veya dar bahçelerde büyük ekskavatörler çalışamaz. Mini ekskavatör (bobcat) kullanımı süreyi uzatabileceği için fiyata etki eder.\n\n## Dalaman Günlük ve Saatlik Kepçe Kiralama Fiyatları\n\nKomple hafriyat götürü usulü yapılabildiği gibi, saatlik veya günlük makine kiralama da tercih edilebilir. Makinenin tonajına (JCB beko loder, paletli ekskavatör vb.) ve operatör ihtiyacına göre fiyatlandırılan **günlük kepçe kiralama**, peyzaj ve küçük altyapı işleri için daha ekonomiktir.\n\nOrhanlar Hafriyat olarak, işinize en uygun makineyi seçerek sizi gereksiz maliyetlerden kurtarıyor ve şeffaf fiyatlandırma politikasıyla çalışıyoruz. Araziniz için en doğru fiyat teklifini almak adına bizimle iletişime geçin.",
+      "category": "Hafriyat",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/imhwrsdwxd9iprgyyoco.jpg",
+      "createdAt": "2026-05-02T12:00:00.000Z"
+  },
+  {
+      "id": "post-51",
+      "title": "Ortaca Kiralık Kepçe ve İş Makinesi Çözümleri",
+      "slug": "ortaca-kiralik-kepce-ve-is-makinesi-cozumleri",
+      "excerpt": "Ortaca'da tarla tesviyesi, sera alt yapısı veya inşaat kazısı için kiralık kepçe mi arıyorsunuz? Geniş araç parkurumuz hizmetinizde.",
+      "content": "# Ortaca Kiralık Kepçe ve İş Makinesi Çözümleri\n\nTarım arazilerinin genişliği ve gelişen konut projeleriyle Muğla'nın önemli ilçelerinden biri olan Ortaca'da, hafriyat ve iş makinesi ihtiyacı dört mevsim devam eder. Narenciye bahçelerinin sökümü, sera yerlerinin düzeltilmesi veya yeni binaların temel kazıları için **Ortaca kiralık kepçe** hizmetlerimiz en büyük yardımcınızdır.\n\n## Tarım Özgü Hafriyat Çözümleri\n\nOrtaca'nın verimli toprakları, sık sık zirai düzenlemeler gerektirir. Bizler:\n*   **Kök Sökümü ve Tarla Tesviyesi:** Eskiyen meyve bahçelerini söküyor, yeni ekim alanları için ip gibi tesviye yapıyoruz.\n*   **Drenaj ve Kanal Açma:** Yağmur sularının seralara veya tarlalara zarar vermesini engellemek için, doğru eğimde drenaj kanalları kazıyoruz.\n\n## İnşaat ve Konut Projeleri İçin İş Makineleri\n\nSadece tarım değil, Ortaca'daki kentsel dönüşüm ve yeni yapılaşma sürecinde de rol alıyoruz. Beko loder (kazıcı yükleyici), paletli ekskavatör ve mini yükleyicilerimizle temel kazısından moloz yüklemeye kadar tüm süreçleri yönetiyoruz.\n\nZamana karşı yarıştığınız projelerde, arıza yapmayan bakımlı makinelerimiz ve bölgeyi iyi bilen tecrübeli operatörlerimizle **Ortaca iş makinesi kiralama** taleplerinize anında yanıt veriyoruz.",
+      "category": "İş Makineleri",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/zf9appdpm9llcssusw0o.jpg",
+      "createdAt": "2026-05-02T13:00:00.000Z"
+  },
+  {
+      "id": "post-52",
+      "title": "Göcek Villa Temel Kazısı ve Havuz Hafriyatı: Uzmanlık Gerektirir",
+      "slug": "gocek-villa-temel-kazisi-ve-havuz-hafriyati",
+      "excerpt": "Göcek'in eğimli ve zorlu arazilerinde lüks villa temel kazısı ve havuz hafriyatı işlemlerinde dikkat edilmesi gereken hayati detaylar.",
+      "content": "# Göcek Villa Temel Kazısı ve Havuz Hafriyatı: Uzmanlık Gerektirir\n\nDünyaca ünlü yat turizmi merkezi Göcek, aynı zamanda ultra lüks villa ve butik otel projelerinin de kalbidir. Muhteşem deniz manzaralı eğimli yamaçlar, mimarlar için harika fırsatlar sunarken, hafriyatçılar için ciddi zorluklar barındırır. **Göcek villa temel kazısı**, sıradan bir kepçe operatörünün altından kalkabileceği bir iş değildir.\n\n## Göcek Hafriyatında Karşılaşılan Zorluklar ve Çözümler\n\n1.  **Eğimli ve Sarp Arazi:** Göcek'teki birçok premium arsa dağ yamacında bulunur. Burada kontrollü teraslama, şevlendirme ve istinat duvarı taban kazıları elzemdir. Güçlü paletli ekskavatörlerimizle en sarp yerlerde bile güvenle çalışıyoruz.\n2.  **Sıfır Titreşim - Kaya Kırımı:** Zeminin sert kaya çıktığı durumlarda pnömatik kırıcılarla müdahale ediyoruz. Etraftaki mevcut lüks yapıların zarar görmemesi, havuzlarının çatlamaması için vibrasyonu kontrollü iletiyoruz.\n3.  **Havuz Temel Kazısı Milimetrik Olmalıdır:** Özellikle sonsuzluk havuzlarında (infinity pool) lazerli kot ölçümü şarttır. Yanlış bir eğim, harcanan tonlarca betonun israfı demektir.\n\nLüks projelerinize yakışır kalitede, iş isg kurallarına harfiyen uyan kurumsal bir hafriyat partneri arıyorsanız, Orhanlar Hafriyat, Göcek bölgesindeki kalıcı çözüm ortağınızdır.",
+      "category": "Kazı İşleri",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/pgpuy219uol8brfcce0o.jpg",
+      "createdAt": "2026-05-02T14:00:00.000Z"
+  },
+  {
+      "id": "post-53",
+      "title": "Dalaman Moloz Atımı ve Yasal Hafriyat Döküm Sahaları",
+      "slug": "dalaman-moloz-atimi-ve-yasal-hafriyat-dokum-sahalari",
+      "excerpt": "Çevreye zarar vermeden, yasal cezalardan korunarak Dalaman ve çevresinde moloz ve inşaat atığı dökümü nasıl yapılır?",
+      "content": "# Dalaman Moloz Atımı ve Yasal Hafriyat Döküm Sahaları\n\nBina yıkımı, ev tadilatı, banyo yenileme veya bahçe düzenlemesi... İşlem ne olursa olsun sonunda ortaya çıkan \"moloz\" yığınından kurtulmak büyük derttir. İnşaat atıklarını sağa sola, ormanlara, dere kenarlarına atmak hem Muğla'nın eşsiz doğasına ihanettir hem de devasa idari para cezaları ile sonuçlanır. Orhanlar Hafriyat, **Dalaman moloz atımı** konusunda yasal, hızlı ve çevre dostu çözümler sunar.\n\n## Moloz Toplama ve Yükleme Aşaması\n\nTadilat alanından çıkan döküntüler, insan gücüyle veya alanın uygunluğuna göre bobcat (mini yükleyici) araçlarımızla seri bir şekilde damperli kamyonlarımıza yüklenir. İster tek seferlik ufak bir tadilat atığı olsun, ister yıkılan büyük bir binanın enkazı; filomuz her boyuttaki işe yeterlidir.\n\n## Belediyenin Belirlediği Döküm Sahaları\n\nToplanan molozlar, sıradan boş arazilere değil, Muğla Büyükşehir Belediyesi veya ilçe belediyeleri tarafından ruhsatlandırılmış **resmi hafriyat döküm ve geri dönüşüm sahalarına** götürülür. Bu sayede molozların içindeki beton ve demir gibi materyaller geri dönüştürülerek ekonomiye kazandırılır, doğa korunur.\n\nKaçak döküm sebebiyle yüzleşeceğiniz yüksek çevre cezalarını ve vicdani yükü düşünmek yerine, **Dalaman moloz nakliyesi** işini bize bırakın; işiniz temiz ve yasal yoldan çözülsün.",
+      "category": "Moloz Atımı",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/huzog36hnnmcvjz5ns5c.jpg",
+      "createdAt": "2026-05-02T15:00:00.000Z"
+  },
+  {
+      "id": "post-54",
+      "title": "Dalaman Bina Yıkımı: Kentsel Dönüşümde Güvenli Adımlar",
+      "slug": "dalaman-bina-yikimi-kentsel-donusum",
+      "excerpt": "Dalaman kentsel dönüşüm süreçlerinde eski veya hasarlı binaların yıkımı, çevre güvenliği ve yasal işlemler hakkında bilmeniz gerekenler.",
+      "content": "# Dalaman Bina Yıkımı: Kentsel Dönüşümde Güvenli Adımlar\n\nMuğla birinci derece deprem kuşağında yer alıyor ve bu gerçek, eski yapıların hızla yenilenmesini zorunlu kılıyor. Kentsel dönüşüm projelerinde ya da bireysel arsa yenilemelerinde ilk adım, mevcut yapının güvenli bir şekilde ortadan kaldırılmasıdır. **Dalaman bina yıkımı**, sıradan bir kepçe vurup evi devirmek değildir; başlı başına mühendislik hesapları ve güvenlik tedbirleri içeren kritik bir operasyondur.\n\n## Kontrollü Bina Yıkımı Neden Önemlidir?\n\n1.  **Çevre Güvenliği:** Yıkılacak binanın yan binalarla bitişik nizam olması veya ana cadde üzerinde bulunması risk faktörünü artırır. Olası bir hatalı vuruşta yan binanın duvarı çökebilir. Uzun erişimli zırhlı ekskavatörlerimizle, binayı tepeden tıraşlayarak kat kat indiriyoruz.\n2.  **Toz Bastırma:** **Muğla bina yıkımı** sırasında oluşan yoğun toz bulutları felakettir. Sulama sistemleri ve tazyikli su kullarak tozu havaya kalkmadan yere indiriyor, çevre sağlığını koruyoruz.\n3.  **Ayrıştırma (Geri Dönüşüm):** Çıkan moloz, demir, ahşap, kapı pencere gibi hurdalar sahada ayrıştırılır. Yıkım sahası tabiri caizse süpürülmüş biçimde müteahhite teslim edilir.\n\nYıkım öncesi gerekli belediye izinleri, asbest (varsa) raporları ve yıkım ruhsatlarının alınması süreçlerinde edindiğimiz tecrübelerle, Dalaman ve Göcek bölgelerindeki tüm yıkım ve söküm işlerine talibiz.",
+      "category": "Yıkım",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/t5poqvzjrnaztsd7apyy.jpg",
+      "createdAt": "2026-05-02T16:00:00.000Z"
+  },
+  {
+      "id": "post-55",
+      "title": "Köyceğiz Tarla Tesviyesi ve Arazi Açma İşlemleri",
+      "slug": "koycegiz-tarla-tesviyesi-ve-arazi-acma-islemleri",
+      "excerpt": "Köyceğiz'in verimli ovalarında narenciye, nar ve tarla bitkileri için arazinizi nasıl doğru tesviye edebileceğinizi anlatıyoruz.",
+      "content": "# Köyceğiz Tarla Tesviyesi ve Arazi Açma İşlemleri\n\nGöl manzarası, yemyeşil doğası ve özellikle narenciye yetiştiriciliğine uygun bereketli topraklarıyla Köyceğiz, tarımsal yatırımların gözdesidir. Yeni bir meyve bahçesi kurmak veya devasa bir sera inşa etmek her zaman ilk adım olarak **\"arazi hazırlığını\"** gerektirir. **Köyceğiz tarla tesviyesi** hizmetlerimiz işte tam bu noktada başlar.\n\n## Bakir Arazileri Tarıma Kazandırmak\n\nYıllarca kullanılmamış, içi çalı, maki, derin kökler veya devasa kayalar ile dolmuş bir tarlayı ekilebilir hale getirmek insan gücüyle imkansızdır:\n*   **Kök Sökümü ve Temizleme:** Güçlü iş makinelerimizin özel ataşmanlarıyla arazideki bitki köklerini dipten sökerek toprağı havalandırıyoruz.\n*   **Eğim Düzeltme (Tesviye):** Özellikle seracılıkta veya damlama sulama sistemlerinde tarlanın düz -veya doğru yöne hafif eğimli- olması şarttır. Lazer veya nivelman ile çalışarak toprağı istenilen kota getiriyoruz.\n*   **Orman Yolu ve Sınır Açma:** Arazinizin sınırlarını belirginleştirmek için hudut kanalları açıyor, traktörünüzün/kamyonunuzun girebilmesi için orman içi toprak yolları genişletip stabilize ediyoruz.\n\nGerçek bir çiftçinin ne istediğini biliyoruz. Toprağınızın üst verimli katmanını (nebati toprağı) sıyırıp atmadan, sadece alt koddan dolgu yaparak arazinizi tarıma hazırlıyoruz.",
+      "category": "Arazi Açma",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/xodm170halulz1ni9k2o.jpg",
+      "createdAt": "2026-05-02T17:00:00.000Z"
+  },
+  {
+      "id": "post-56",
+      "title": "Dalaman En Yakın Hafriyat Firması: Hızlı ve Acil Çözümler",
+      "slug": "dalaman-en-yakin-hafriyat-firmasi",
+      "excerpt": "Dalaman, Ortaca, Göcek'te acil logar tıkanıklığı, su patlağı veya acil kepçe ihtiyaçlarınız için bölgenin en donanımlı filosu hizmetinizde.",
+      "content": "# Dalaman En Yakın Hafriyat Firması: Hızlı ve Acil Çözümler\n\nİnşaat sektöründe bazen her şey planlandığı gibi gitmez. Gecenin bir yarısı şantiyede zemin suyu patlayabilir, şiddetli yağışlarda kanal taşabilir, yol çökebilir veya ana foseptik hattında acil bir çökme yaşanabilir. Bu gibi panik anlarında Google'a aranılan ilk şey **\"Dalaman en yakın hafriyat firması\"** veya **\"Dalaman acil kepçe\"** numarasıdır.\n\n## Bölgesel Hakimiyet ve Hız\n\nOrhanlar Hafriyat olarak Dalaman ve çevresinde yerleşiğiz. Operatörlerimiz yolları, sokakları, zemin yapılarını ezbere bilir.\n1.  **Lokal Çözüm Ortaklığı:** Uzağınızdaki firmalar nakliye masrafı çıkarırken veya saatlerce gelmenizi bekletirken, biz hemen yola çıkarız.\n2.  **Sorun Anlama:** Deneyimli operatörlerimiz acil durumlarda (örneğin patlayan bir ana su borusuna müdahale) kepçeyi milimetrik kullanarak diğer altyapılara (elektrik, fiber vb.) zarar vermeden noktayı kazar.\n3.  **Filo Çeşitliliği:** Olayın aciliyetine ve dar sokağa göre 1 saat içinde devasa ekskavatör de yollayabiliriz, minik ve kıvrak bir bobcat de.\n\nKendinizi ve projenizi sürpriz arızalarda çaresiz hissetmeyin. Acil kazı ve hafriyat işlemlerinde firmamız 7/24 prensibiyle bölgenin can yeleğidir.",
+      "category": "Kurumsal",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/ujyfa9pfrsl8vtbhlxjr.jpg",
+      "createdAt": "2026-05-02T18:00:00.000Z"
+  },
+  {
+      "id": "post-57",
+      "title": "Fethiye ve Göcek Bölgelerinde Mini Ekskavatör Kullanım Alanları",
+      "slug": "fethiye-gocek-mini-ekskavator-kullanim-alanlari",
+      "excerpt": "Dar bahçeler, peyzaj düzenlemeleri ve taş duvar işlerinde kullanılan mini ekskavatör (bobcat) kiralama hizmetinin avantajları.",
+      "content": "# Fethiye ve Göcek Bölgelerinde Mini Ekskavatör Kullanım Alanları\n\nHafriyat denilince hepimizin aklına dağları deviren devasa paletli makineler gelir. Oysa ki turizm beldelerindeki yerleşim birimleri, özellikle de Fethiye ve Göcek gibi bölgelerde yollar ve bahçeler oldukça dardır. Standart bir kepçenin dönemeyeceği, sokağına bile giremeyeceği yerlerde devreye **mini ekskavatör** (halk arasındaki tabiriyle bobcat cinsi ufak kepçeler) girmektedir.\n\n## Mini Ekskavatörlerin Avantajları\n\n1.  **Dar Alan Manevrası:** Villaların bahçe kapılarından rahatça sığabilir, duvar diplerinde, havuz içlerinde çalışabilirler.\n2.  **Sıfır Çevre Hasarı:** Paletleri genelde kauçuk olduğu için, lüks bahçenizdeki kilit parke taşları, asfalt veya çim üzerine zarar vermeden yürürler.\n3.  **Çok Yönlülük:** Önündeki kepçe sökülüp çabucak matkap (burgu), mini kırıcı (tabanca) veya süpürge aparatı takılabilir. Çit direği deliği açmaktan şadırvan yeri kazmaya kadar her işi yaparlar.\n\nÖzellikle peyzaj düzenlemelerinde, toprak sermede, ince mıcır taşımada ve butik taş duvar yapımında **Göcek mini kepçe kiralama** hizmetimiz mimarların favori çözümüdür. Evinizi inşa edip işi bitirdiğinizi sanırsınız ama asıl dokunuş; çevre düzenlemesi o küçük, sessiz ve çalışkan makinelerle yapılır.",
+      "category": "İş Makineleri",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/vsyrrm3zvbrg7ot1qpyz.jpg",
+      "createdAt": "2026-05-02T19:00:00.000Z"
+  },
+  {
+      "id": "post-58",
+      "title": "Muğla Kanal Kazısı ve Altyapı İşlerinde Güvenlik",
+      "slug": "mugla-kanal-kazisi-altyapi-isleri",
+      "excerpt": "Ciddi tehlikeler barındıran altyapı, atık su ve kanal kazılarında uyguladığımız şevlendirme (palya) ve güvenlik standartları.",
+      "content": "# Muğla Kanal Kazısı ve Altyapı İşlerinde Güvenlik\n\nBir şehrin görünmeyen gerçek medeniyeti yerin altındaki o devasa ağdır. Su hatları, doğalgaz boruları, atık su(kanalizasyon) künkleri ve telekomünikasyon kabloları... Yeni yerleşim yerlerinin altyapısını oluştururken veya mevcudu yenilerken devasa kanallar açılır. **Dalaman kanal kazısı** ve altyapı projeleri, hafriyat işleri arasında 'en tehlikeli' kategorisinde yer alır.\n\n## Derin Kazılardaki Göçük Riski\n\nEğer bir kanal 1.5 - 2 metreden daha derinse ve kazılan toprak türü gevşekse, yanal göçmeler an meselesidir. Göçük, kanalın içine boru kaynaklamaya / döşemeye giden işçiler için ölümcül olabilir. Biz güvenlik için ne yapıyoruz?\n*   **Şevli Kazı Uygulaması:** Eğer alan genişse, kanalı kutu şeklinde değil 'V' şeklinde veya kademeli (palyalı - basamaklı) kazarak toprağın kaymasını fiziksel olarak önlüyoruz.\n*   **Geri Dolgu Hassasiyeti:** Borular döşendikten sonra etrafını özel yıkanmış kum/mıcır ile yastıklıyor, boruyu ezmeden kompaktörlerle sıkıştırıyoruz. Yetersiz sıkıştırma, yağmurda yolun içine çökmesiyle sonuçlanır.\n\n**Muğla altyapı hafriyat** projelerinizde hem çalışanlarınızın hayatını tehlikeye atmamak hem de yıllarca çökmeyen kaliteli hatlar elde etmek için profesyonellerle çalışmayı seçin.",
+      "category": "Altyapı",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/imhwrsdwxd9iprgyyoco.jpg",
+      "createdAt": "2026-05-02T20:00:00.000Z"
+  },
+  {
+      "id": "post-59",
+      "title": "Hafriyat Firması Seçerken Dikkat Etmeniz Gereken 5 Kriter",
+      "slug": "hafriyat-firmasi-secerken-dikkat-edilmesi-gerekenler",
+      "excerpt": "Arsanızı emanet edeceğiniz hafriyat şirketinde hangi belgelere, makine parkuruna ve referanslara bakmalısınız? Kapsamlı rehber.",
+      "content": "# Hafriyat Firması Seçerken Dikkat Etmeniz Gereken 5 Kriter\n\nİnşaata attığınız ilk adımın kabusa dönüşmemesi için doğru hafriyatçıyı seçmek çok önemlidir. Fiyat sormaktan daha kritik sorularınız olmalı. Muğla, Dalaman ve Ortaca bölgelerinde kime güveneceğinizi belirlerken işinize yarayacak rehber:\n\n1.  **Makine Parkuru Kendi Malı mı?:** İşi alıp makineleri sağdan soldan kiralayan taşeron firmalar zamanında işi teslim edemez. Kendi geniş araç parkuru (ekskavatör, loder, damperli tır) olan Orhanlar Hafriyat gibi kurumsal yapılara yönelin.\n2.  **Operatör Liyakati:** Kepçeyi kullanmak ayrıdır, harita mühendisinin verdiği kotlara (çizgilere) uyarak toprağı şekillendirmek ve inşaat statik bilgisine sahip olmak ayrıdır. Ruhsatlı ve tecrübeli operatör şarttır.\n3.  **Yasal Döküm İzinleri:** Çıkan molozu ormana döküp kaçan firmalar sebebiyle, arsa sahibi olarak sizi yaka paça karakola götürebilirler. 'Moloz Taşıma Yetki Belgesi' ve fiş ibrazı isteyin.\n4.  **İş Güvenliği (İSG) Kültürü:** Firmanın makineleri sigortalı mı? Periyodik bakımları yapılmış mı? Kopan bir hidrolik hortumu tüm projenin günlerce durmasına neden olabilir.\n5.  **Şeffaf Fiyat ve Metraj:** Metreküp üzerinden anlaşıldıysa hafriyatın nasıl ölçümlendiği, taşıma mesafesinin fiyata dahil olup olmadığı önceden netleştirilmeli.\n\nAğır işlerin ustası olan Orhanlar Dalaman, tüm bu sert kriterleri fazlasıyla karşılayan kurumsal bir şirkettir. Bir sonraki projenizde görüşmek üzere.",
+      "category": "Kurumsal",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/zf9appdpm9llcssusw0o.jpg",
+      "createdAt": "2026-05-02T21:00:00.000Z"
+  }
 ];
