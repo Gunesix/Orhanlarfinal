@@ -12,11 +12,11 @@ export default function Header() {
 
   const navLinks = [
     { name: 'Ana Sayfa', href: '/' },
-    { name: 'Hizmetler', href: '/#hizmetler' },
+    { name: 'Hizmetler', href: '/hizmetlerimiz' },
     { name: 'Projeler', href: '/#projeler' },
     { name: 'Galeri', href: '/#galeri' },
-    { name: 'Blog', href: '/#blog' },
-    { name: 'İletişim', href: '/#iletisim' },
+    { name: 'Blog', href: '/blog' },
+    { name: 'İletişim', href: '/iletisim' },
   ];
 
   return (

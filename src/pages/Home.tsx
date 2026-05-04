@@ -5,7 +5,6 @@ import Services from '../components/Services';
 import Projects from '../components/Projects';
 import Gallery from '../components/Gallery';
 import Testimonials from '../components/Testimonials';
-import Blog from '../components/Blog';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
 
@@ -20,7 +19,6 @@ export default function Home() {
         <Projects />
         <Gallery />
         <Testimonials />
-        <Blog />
         <Contact />
       </main>
       <Footer />
