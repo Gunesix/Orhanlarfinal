@@ -1,3 +1,4 @@
+import { Helmet } from 'react-helmet-async';
 import Header from '../components/Header';
 import Hero from '../components/Hero';
 import About from '../components/About';
@@ -11,6 +12,11 @@ import Footer from '../components/Footer';
 export default function Home() {
   return (
     <div className="min-h-screen flex flex-col">
+      <Helmet>
+        <title>Dalaman Orhanlar Hafriyat | Muğla Kazı ve Kepçe Kiralama</title>
+        <meta name="description" content="Orhanlar Dalaman hafriyat olarak güvenilir, hızlı ve profesyonel hizmet sunuyoruz. Muğla, Dalaman ve Ortaca bölgelerinde kiralık kepçe ve altyapı kazı çalışmaları." />
+        <meta name="keywords" content="Dalaman Orhanlar, Orhanlar Dalaman, Dalaman hafriyat, Muğla hafriyat, Ortaca hafriyat, Göcek hafriyat" />
+      </Helmet>
       <Header />
       <main className="flex-grow">
         <Hero />

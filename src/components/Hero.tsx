@@ -5,9 +5,9 @@ import { useSettings } from '../hooks/useSettings';
 export default function Hero() {
   const { settings } = useSettings();
 
-  const title = settings?.heroTitle || "Muğla Dalaman’da Güvenilir Hafriyat Hizmetleri";
-  const subtitle = settings?.heroSubtitle || "Muğla Dalaman'ın Öncü Firması";
-  const description = settings?.heroDescription || "Profesyonel ekipmanlarımız ve uzman kadromuzla; kazı, dolgu, yıkım ve kepçe kiralama hizmetlerinde yanınızdayız. Projelerinizi zamanında ve güvenle tamamlıyoruz.";
+  const title = settings?.heroTitle || "Dalaman Orhanlar Hafriyat: Güvenilir Kazı Hizmetleri";
+  const subtitle = settings?.heroSubtitle || "Orhanlar Dalaman'ın Öncü Firması";
+  const description = settings?.heroDescription || "Dalaman Orhanlar olarak profesyonel ekipmanlarımız ve uzman kadromuzla; kazı, dolgu, yıkım ve kepçe kiralama hizmetlerinde yanınızdayız. Projelerinizi zamanında ve güvenle tamamlıyoruz.";
   const image = settings?.heroImage || "https://images.unsplash.com/photo-1541888086425-d81bb19240f5?auto=format&fit=crop&q=80";
 
   return (

@@ -31,9 +31,9 @@ export default function About() {
     'Müşteri Odaklı Çözümler',
   ];
 
-  const title = settings?.aboutTitle || "Dalaman'ın İnşasında Güçlü Çözüm Ortağınız";
-  const subtitle = settings?.aboutSubtitle || "Hakkımızda";
-  const description1 = settings?.aboutDescription1 || "Orhanlar Hafriyat olarak, Muğla Dalaman ve çevresinde uzun yıllardır inşaat sektörünün temel taşı olan hafriyat ve kazı işlerinde hizmet vermekteyiz. Modern iş makinelerimiz ve deneyimli operatörlerimizle, her ölçekteki projeyi titizlikle yürütüyoruz.";
+  const title = settings?.aboutTitle || "Dalaman Orhanlar ile İnşaatta Güçlü Çözüm Ortağınız";
+  const subtitle = settings?.aboutSubtitle || "Hakkımızda - Orhanlar Dalaman";
+  const description1 = settings?.aboutDescription1 || "Orhanlar Dalaman olarak, Muğla ve Dalaman çevresinde uzun yıllardır inşaat sektörünün temel taşı olan hafriyat ve kazı işlerinde hizmet vermekteyiz. Dalaman Orhanlar güvencesiyle modern iş makinelerimiz ve deneyimli operatörlerimizle, her ölçekteki projeyi titizlikle yürütüyoruz.";
   const description2 = settings?.aboutDescription2 || "Müşteri memnuniyetini ve güveni her zaman ön planda tutarak, Dalaman'ın gelişen mimarisine sağlam temeller atıyoruz.";
   const image = settings?.aboutImage || 'https://res.cloudinary.com/orhanlar/image/upload/v1776005952/huzog36hnnmcvjz5ns5c.jpg';
   const experience = settings?.aboutExperience || "23+";
