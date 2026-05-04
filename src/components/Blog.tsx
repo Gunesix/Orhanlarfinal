@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { Calendar, ArrowRight, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 import { blogPosts } from '../data/blogPosts';
 
 export default function Blog() {

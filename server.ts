@@ -107,7 +107,7 @@ ${message}
 
         if (req.originalUrl.startsWith('/blog/')) {
           const slug = req.originalUrl.split('/')[2];
-          const { blogPosts } = await import('./src/data/blogPosts');
+          const { blogPosts } = await import('./src/data/blogPosts.ts');
           const post = blogPosts.find((p: any) => p.slug === slug || p.id === slug);
           if (post) {
              template = template.replace(
@@ -119,7 +119,25 @@ ${message}
              );
           }
         }
-        res.status(200).set({ 'Content-Type': 'text/html' }).end(template);
+
+        const { render } = await vite.ssrLoadModule('/src/entry-server.tsx');
+        const helmetContext: any = {};
+        const appHtml = render(req.originalUrl, helmetContext);
+        const { helmet } = helmetContext;
+
+        if (helmet) {
+          const helmetStr = `
+            ${helmet.title.toString()}
+            ${helmet.meta.toString()}
+            ${helmet.link.toString()}
+            ${helmet.script.toString()}
+          `;
+          template = template.replace(/<title>(.*?)<\/title>/, '');
+          template = template.replace('<!-- Meta Robots -->', helmetStr);
+        }
+
+        const finalHtml = template.replace('<!-- SSR_OUT -->', appHtml);
+        res.status(200).set({ 'Content-Type': 'text/html' }).end(finalHtml);
       } catch (e: any) {
         vite.ssrFixStacktrace(e);
         next(e);
@@ -139,7 +157,7 @@ ${message}
         if (req.originalUrl.startsWith('/blog/')) {
           const slug = req.originalUrl.split('/')[2];
           // use dynamic import to avoid failing if not built the same way
-          const { blogPosts } = await import('./src/data/blogPosts');
+          const { blogPosts } = await import('./src/data/blogPosts.ts');
           const post = blogPosts.find((p: any) => p.slug === slug || p.id === slug);
           if (post) {
              html = html.replace(
@@ -151,6 +169,30 @@ ${message}
              );
           }
         }
+
+        // Production SSR
+        try {
+          const { render } = await import('file://' + path.join(process.cwd(), 'dist/server/entry-server.js'));
+          const helmetContext: any = {};
+          const appHtml = render(req.originalUrl, helmetContext);
+          const { helmet } = helmetContext;
+
+          if (helmet) {
+            const helmetStr = `
+              ${helmet.title.toString()}
+              ${helmet.meta.toString()}
+              ${helmet.link.toString()}
+              ${helmet.script.toString()}
+            `;
+            html = html.replace(/<title>(.*?)<\/title>/, '');
+            html = html.replace('<!-- Meta Robots -->', helmetStr);
+          }
+          
+          html = html.replace('<!-- SSR_OUT -->', appHtml);
+        } catch (ssrErr) {
+          console.error("SSR failed in prod, falling back to client render", ssrErr);
+        }
+
         res.send(html);
       } catch (err) {
         res.status(500).send("Error reading HTML file");
