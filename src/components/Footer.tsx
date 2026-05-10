@@ -1,5 +1,6 @@
 import { Facebook, Instagram, Twitter, Linkedin, ArrowUp } from 'lucide-react';
 import { useSettings } from '../hooks/useSettings';
+import { Link } from 'react-router';
 
 export default function Footer() {
   const { settings } = useSettings();
@@ -8,13 +9,22 @@ export default function Footer() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
+  const quickLinks = [
+    { name: 'Ana Sayfa', href: '/' },
+    { name: 'Hakkımızda', href: '/#hakkimizda' },
+    { name: 'Hizmetlerimiz', href: '/hizmetlerimiz' },
+    { name: 'Projelerimiz', href: '/#projeler' },
+    { name: 'Blog', href: '/blog' },
+    { name: 'İletişim', href: '/iletisim' },
+  ];
+
   return (
     <footer className="bg-brand-dark text-white pt-24 pb-12">
       <div className="container-custom">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           {/* Brand Info */}
           <div className="lg:col-span-1">
-            <div className="flex items-center mb-8">
+            <Link to="/" className="flex items-center mb-8 hover:opacity-90 transition-opacity">
               <div className="bg-brand-orange p-2 rounded-lg mr-2">
                 <div className="w-6 h-6 border-4 border-white rounded-sm transform rotate-45 flex items-center justify-center">
                   <div className="w-1.5 h-1.5 bg-white rounded-full"></div>
@@ -23,7 +33,7 @@ export default function Footer() {
               <span className="text-xl font-extrabold tracking-tighter">
                 ORHANLAR<span className="text-brand-orange">HAFRİYAT</span>
               </span>
-            </div>
+            </Link>
             <p className="text-gray-400 mb-8 leading-relaxed">
               {settings?.aboutDescription1?.substring(0, 150) || "Muğla Dalaman bölgesinde profesyonel hafriyat ve kazı çözümleri sunuyoruz. Güçlü makine parkurumuz ve uzman ekibimizle hizmetinizdeyiz."}...
             </p>
@@ -44,12 +54,12 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-bold mb-8 border-l-4 border-brand-orange pl-4">Hızlı Menü</h4>
             <ul className="space-y-4 text-gray-400">
-              {['Ana Sayfa', 'Hakkımızda', 'Hizmetlerimiz', 'Projelerimiz', 'Blog', 'İletişim'].map((item) => (
-                <li key={item}>
-                  <a href="#" className="hover:text-brand-orange transition-colors flex items-center">
+              {quickLinks.map((item) => (
+                <li key={item.name}>
+                  <Link to={item.href} className="hover:text-brand-orange transition-colors flex items-center group">
                     <span className="w-1.5 h-1.5 bg-brand-orange rounded-full mr-3 opacity-0 group-hover:opacity-100"></span>
-                    {item}
-                  </a>
+                    {item.name}
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -61,9 +71,9 @@ export default function Footer() {
             <ul className="space-y-4 text-gray-400">
               {['Hafriyat ve Kazı', 'Kepçe Kiralama', 'Kum & Çakıl Temini', 'Yıkım Hizmetleri', 'Dolgu & Tesviye', 'Çevre Düzenleme'].map((item) => (
                 <li key={item}>
-                  <a href="#" className="hover:text-brand-orange transition-colors">
+                  <Link to="/hizmetlerimiz" className="hover:text-brand-orange transition-colors">
                     {item}
-                  </a>
+                  </Link>
                 </li>
               ))}
             </ul>

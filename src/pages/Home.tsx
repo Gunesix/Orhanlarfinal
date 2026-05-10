@@ -13,8 +13,8 @@ export default function Home() {
   return (
     <div className="min-h-screen flex flex-col">
       <Helmet>
-        <title>Muğla Dalaman Hafriyat & Kepçe Kiralama | Orhanlar Hafriyat</title>
-        <meta name="description" content="Dalaman ve Muğla bölgesinde profesyonel hafriyat, kazı, bina yıkımı ve saatlik/günlük kepçe kiralama hizmetleri. Ücretsiz keşif ve fiyat teklifi için arayın!" />
+        <title>Orhanlar Dalaman Hafriyat | En İyi Kazı ve Kepçe Kiralama</title>
+        <meta name="description" content="Orhanlar Dalaman hafriyat olarak güvenilir, hızlı ve profesyonel hizmet sunuyoruz. Muğla, Dalaman ve Ortaca bölgesinde kiralık kepçe ve hafriyat çalışmaları." />
         <meta name="keywords" content="Dalaman Orhanlar, Orhanlar Dalaman, Dalaman hafriyat, Muğla hafriyat, Ortaca hafriyat, Göcek hafriyat" />
       </Helmet>
       <Header />

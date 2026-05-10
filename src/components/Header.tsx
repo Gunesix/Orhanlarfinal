@@ -1,6 +1,7 @@
 import { Phone, MessageCircle, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
+import { Link } from 'react-router';
 import { useSettings } from '../hooks/useSettings';
 
 export default function Header() {
@@ -24,7 +25,7 @@ export default function Header() {
       <div className="container-custom">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-          <div className="flex-shrink-0 flex items-center">
+          <Link to="/" className="flex-shrink-0 flex items-center">
             <div className="bg-brand-orange p-2 rounded-lg mr-2">
               <div className="w-8 h-8 border-4 border-white rounded-sm transform rotate-45 flex items-center justify-center">
                 <div className="w-2 h-2 bg-white rounded-full"></div>
@@ -33,18 +34,18 @@ export default function Header() {
             <span className="text-2xl font-extrabold tracking-tighter text-brand-dark">
               ORHANLAR<span className="text-brand-orange">HAFRİYAT</span>
             </span>
-          </div>
+          </Link>
 
           {/* Desktop Nav */}
           <nav className="hidden md:flex space-x-8">
             {navLinks.map((link) => (
-              <a
+              <Link
                 key={link.name}
-                href={link.href}
+                to={link.href}
                 className="text-sm font-semibold text-brand-dark hover:text-brand-orange transition-colors"
               >
                 {link.name}
-              </a>
+              </Link>
             ))}
           </nav>
 
@@ -91,14 +92,14 @@ export default function Header() {
           >
             <div className="container-custom py-6 flex flex-col space-y-4">
               {navLinks.map((link) => (
-                <a
+                <Link
                   key={link.name}
-                  href={link.href}
+                  to={link.href}
                   onClick={() => setIsMenuOpen(false)}
                   className="text-lg font-semibold text-brand-dark hover:text-brand-orange"
                 >
                   {link.name}
-                </a>
+                </Link>
               ))}
               <div className="pt-4 flex flex-col space-y-4">
                 <a

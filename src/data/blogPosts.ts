@@ -591,5 +591,15 @@ export const blogPosts = [
       "category": "Kurumsal",
       "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/zf9appdpm9llcssusw0o.jpg",
       "createdAt": "2026-05-02T21:00:00.000Z"
+  },
+  {
+      "id": "post-60",
+      "title": "Dalaman'da Kazı ve Hafriyat İşlerinde Neden Orhanlar Dalaman'ı Seçmelisiniz?",
+      "slug": "dalaman-hafriyat-orhanlar-dalaman",
+      "excerpt": "Dalaman ve Muğla bölgesinde temel kazısı, kepçe kiralama, çevre ve peyzaj düzenlemesi gibi işlerinizde Orhanlar Dalaman olarak tecrübemizle yanınızdayız.",
+      "content": "# Dalaman'da Hafriyat ve Kazı İşlerinde Orhanlar Dalaman Kalitesi\n\nMuğla ve Dalaman bölgesi, doğal güzellikleri ve sürekli gelişen yapısıyla yeni projelere her zaman açık bir bölgedir. İster yeni bir ev inşa ediyor olun, ister bahçenizi yeniden düzenliyor olun, işin temeli her zaman doğru ve güvenilir bir hafriyat çalışmasıyla başlar. İşte tam bu noktada, yılların verdiği tecrübe ve güvenle **Orhanlar Dalaman** olarak yanınızdayız.\n\n## Doğru Temel, Güvenli Yapıların Başlangıcıdır\n\nBir inşaatın sağlam olması, temelinin ne kadar doğru kazıldığına ve zeminin nasıl hazırlandığına bağlıdır. **Orhanlar Dalaman** ekipleri olarak, projelerinizin temel kazı işlemlerini büyük bir titizlikle gerçekleştiriyoruz. Gelişmiş makine parkurumuz ve deneyimli operatörlerimiz sayesinde, zorlu zemin koşullarında bile istenilen derinlik ve ölçülerde kazı işlemlerini sorunsuz şekilde teslim ediyoruz.\n\n## Kepçe ve İş Makinesi Kiralamada Güvenilir Adres\n\nDalaman ve çevresinde kısa süreli veya proje bazlı iş makinesi ihtiyaçlarınız için en pratik çözümleri sunuyoruz. İçiniz rahat bir şekilde kiralayacağınız ekskavatör ve kepçelerimiz, periyodik bakımları yapılmış, iş güvenliği standartlarına uygun araçlardır. Saatlik veya günlük ihtiyaçlarınıza göre en uygun makineleri, tecrübeli operatörleriyle birlikte kullanımınıza sunuyoruz. Çalışmalarınızda en önemli partneriniz olan **Dalaman Orhanlar**, her tür zemin ve sahada işinizin hızla tamamlanmasını hedefler.\n\n## Çevre Dostu ve Düzenli Taşıma \n\nHafriyat ve molozların toplanması, taşınması ve yasal döküm alanlarına ulaştırılması her projenin en kritik aşamalarından biridir. Bu süreci, çevreye zarar vermeden ve yönetmeliklere uygun bir şekilde yürütmek, şirketimizin vizyonunun vazgeçilmez bir parçasıdır. Yıkım sonrası veya kazı sonrası ortaya çıkan hafriyat toprağını ve molozları düzenli bir şekilde sahadan uzaklaştırıyor, iş alanınızı her zaman temiz ve çalışmaya hazır durumda bırakıyoruz. Kalite ve güven için **Orhanlar Dalaman** ekiplerine ulaşabilirsiniz.\n\nDalaman, Göcek, Ortaca ve Muğla çevresindeki tüm kazı, yıkım, dolgu, tesviye ve makine kiralama işlerinizde güvenle çalışabileceğiniz profesyonel bir ekip arıyorsanız, her zaman yanınızdayız. Kaliteli işçilik ve söz verilen zamanda teslimat prensibimizle, projelerinizi sağlam temeller üzerine inşa etmeye devam ediyoruz.\n",
+      "category": "Kurumsal",
+      "image": "https://res.cloudinary.com/orhanlar/image/upload/v1776005952/pgpuy219uol8brfcce0o.jpg",
+      "createdAt": "2026-05-10T08:45:00.000Z"
   }
 ];
