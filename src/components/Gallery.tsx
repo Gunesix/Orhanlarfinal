@@ -144,6 +144,7 @@ export default function Gallery() {
                     alt={img.title || "Galeri Resmi"}
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                     referrerPolicy="no-referrer"
+                    loading="lazy"
                   />
                 )}
                 <div className="absolute inset-0 bg-brand-dark/0 group-hover:bg-brand-dark/40 transition-colors duration-300 flex items-center justify-center">
@@ -300,7 +301,7 @@ export default function Gallery() {
                       {img.type === 'video' || img.url.endsWith('.mp4') ? (
                         <video src={img.url} className="w-full h-full object-cover" />
                       ) : (
-                        <img src={img.url} alt="Thumbnail" className="w-full h-full object-cover" />
+                        <img src={img.url} alt="Thumbnail" className="w-full h-full object-cover" loading="lazy" referrerPolicy="no-referrer" />
                       )}
                     </button>
                   ))}

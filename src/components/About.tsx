@@ -31,7 +31,7 @@ export default function About() {
     'Müşteri Odaklı Çözümler',
   ];
 
-  const title = settings?.aboutTitle || "Dalaman Orhanlar ile İnşaatta Güçlü Çözüm Ortağınız";
+  const title = settings?.aboutTitle || "Orhanlar Dalaman ile İnşaatta Güçlü Çözüm Ortağınız";
   const subtitle = settings?.aboutSubtitle || "Hakkımızda - Orhanlar Dalaman";
   const description1 = settings?.aboutDescription1 || "Orhanlar Dalaman olarak, Muğla ve Dalaman çevresinde uzun yıllardır inşaat sektörünün temel taşı olan hafriyat ve kazı işlerinde hizmet vermekteyiz. Dalaman Orhanlar güvencesiyle modern iş makinelerimiz ve deneyimli operatörlerimizle, her ölçekteki projeyi titizlikle yürütüyoruz.";
   const description2 = settings?.aboutDescription2 || "Müşteri memnuniyetini ve güveni her zaman ön planda tutarak, Dalaman'ın gelişen mimarisine sağlam temeller atıyoruz.";
@@ -58,6 +58,7 @@ export default function About() {
                   alt="Construction site"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
+                  loading="lazy"
                 />
               ) : (
                 <div className="w-full h-full flex items-center justify-center text-gray-400">
