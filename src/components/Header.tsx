@@ -23,10 +23,10 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 bg-white shadow-sm">
       <div className="container-custom">
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between h-24">
           {/* Logo */}
           <Link to="/" className="flex-shrink-0 flex items-center">
-            <img src="https://res.cloudinary.com/orhanlar/image/upload/v1779874256/IMG_0190_rohboq.png" alt="Orhanlar Hafriyat" className="h-14 w-auto drop-shadow-sm" />
+            <img src="https://res.cloudinary.com/orhanlar/image/upload/v1779874256/IMG_0190_rohboq.png" alt="Orhanlar Hafriyat" className="h-20 w-auto drop-shadow-sm scale-110 origin-left" />
           </Link>
 
           {/* Desktop Nav */}

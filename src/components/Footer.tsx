@@ -25,7 +25,7 @@ export default function Footer() {
           {/* Brand Info */}
           <div className="lg:col-span-1">
             <Link to="/" className="flex items-center mb-8 hover:opacity-90 transition-opacity">
-              <img src="https://res.cloudinary.com/orhanlar/image/upload/v1779874256/IMG_0190_rohboq.png" alt="Orhanlar Hafriyat" className="h-16 w-auto brightness-0 invert opacity-90 drop-shadow" />
+              <img src="https://res.cloudinary.com/orhanlar/image/upload/v1779874256/IMG_0190_rohboq.png" alt="Orhanlar Hafriyat" className="h-20 w-auto brightness-0 invert opacity-90 drop-shadow scale-110 origin-left" />
             </Link>
             <p className="text-gray-400 mb-8 leading-relaxed">
               {settings?.aboutDescription1?.substring(0, 150) || "Muğla Dalaman bölgesinde profesyonel hafriyat ve kazı çözümleri sunuyoruz. Güçlü makine parkurumuz ve uzman ekibimizle hizmetinizdeyiz."}...
