@@ -76,7 +76,7 @@ export default function BlogPost() {
           "name": "Orhanlar Hafriyat",
           "logo": {
             "@type": "ImageObject",
-            "url": `${window.location.origin}/logo.png`
+            "url": "https://res.cloudinary.com/orhanlar/image/upload/v1779874256/IMG_0190_rohboq.png"
           }
         },
         "description": description

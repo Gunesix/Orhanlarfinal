@@ -25,14 +25,7 @@ export default function Footer() {
           {/* Brand Info */}
           <div className="lg:col-span-1">
             <Link to="/" className="flex items-center mb-8 hover:opacity-90 transition-opacity">
-              <div className="bg-brand-orange p-2 rounded-lg mr-2">
-                <div className="w-6 h-6 border-4 border-white rounded-sm transform rotate-45 flex items-center justify-center">
-                  <div className="w-1.5 h-1.5 bg-white rounded-full"></div>
-                </div>
-              </div>
-              <span className="text-xl font-extrabold tracking-tighter">
-                ORHANLAR<span className="text-brand-orange">HAFRİYAT</span>
-              </span>
+              <img src="https://res.cloudinary.com/orhanlar/image/upload/v1779874256/IMG_0190_rohboq.png" alt="Orhanlar Hafriyat" className="h-16 w-auto brightness-0 invert opacity-90 drop-shadow" />
             </Link>
             <p className="text-gray-400 mb-8 leading-relaxed">
               {settings?.aboutDescription1?.substring(0, 150) || "Muğla Dalaman bölgesinde profesyonel hafriyat ve kazı çözümleri sunuyoruz. Güçlü makine parkurumuz ve uzman ekibimizle hizmetinizdeyiz."}...

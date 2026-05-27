@@ -26,14 +26,7 @@ export default function Header() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link to="/" className="flex-shrink-0 flex items-center">
-            <div className="bg-brand-orange p-2 rounded-lg mr-2">
-              <div className="w-8 h-8 border-4 border-white rounded-sm transform rotate-45 flex items-center justify-center">
-                <div className="w-2 h-2 bg-white rounded-full"></div>
-              </div>
-            </div>
-            <span className="text-2xl font-extrabold tracking-tighter text-brand-dark">
-              ORHANLAR<span className="text-brand-orange">HAFRİYAT</span>
-            </span>
+            <img src="https://res.cloudinary.com/orhanlar/image/upload/v1779874256/IMG_0190_rohboq.png" alt="Orhanlar Hafriyat" className="h-14 w-auto drop-shadow-sm" />
           </Link>
 
           {/* Desktop Nav */}
