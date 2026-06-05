@@ -86,9 +86,9 @@ export default function BlogPost() {
 
     return () => {
       // Cleanup SEO tags when leaving the page
-      document.title = 'Orhanlar Hafriyat';
+      document.title = 'Orhanlar Hafriyat | Dalaman Kazı İşleri, Hafriyat & Kepçeci';
       const metaDesc = document.querySelector('meta[name="description"]');
-      if (metaDesc) metaDesc.setAttribute('content', 'Muğla Dalaman bölgesinde profesyonel hafriyat, kazı, yıkım ve altyapı hizmetleri.');
+      if (metaDesc) metaDesc.setAttribute('content', 'Dalaman Orhanlar Hafriyat ile güvendesiniz. Profesyonel Dalaman kazı işleri, dalaman kepçeci kiralama, dolgu ve bina temel hafriyat hizmetlerinde kaliteli çözümler.');
       
       const metaKeywords = document.querySelector('meta[name="keywords"]');
       if (metaKeywords) metaKeywords.remove();

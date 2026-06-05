@@ -31,10 +31,10 @@ export default function About() {
     'Müşteri Odaklı Çözümler',
   ];
 
-  const title = settings?.aboutTitle || "Orhanlar Dalaman ile İnşaatta Güçlü Çözüm Ortağınız";
-  const subtitle = settings?.aboutSubtitle || "Hakkımızda - Orhanlar Dalaman";
-  const description1 = settings?.aboutDescription1 || "Orhanlar Dalaman olarak, Muğla ve Dalaman çevresinde uzun yıllardır inşaat sektörünün temel taşı olan hafriyat ve kazı işlerinde hizmet vermekteyiz. Dalaman Orhanlar güvencesiyle modern iş makinelerimiz ve deneyimli operatörlerimizle, her ölçekteki projeyi titizlikle yürütüyoruz.";
-  const description2 = settings?.aboutDescription2 || "Müşteri memnuniyetini ve güveni her zaman ön planda tutarak, Dalaman'ın gelişen mimarisine sağlam temeller atıyoruz.";
+  const title = settings?.aboutTitle || "Dalaman Hafriyat Sektörünün En Güvenilir İsmi: Orhanlar Dalaman";
+  const subtitle = settings?.aboutSubtitle || "Orhanlar Hafriyat - Dalaman Kazı İşleri ve Kepçeci";
+  const description1 = settings?.aboutDescription1 || "Orhanlar Hafriyat olarak, Muğla ve Dalaman bölgesinde uzun yıllardır inşaat projelerinin vazgeçilmezi olan profesyonel Dalaman kazı işleri ve hafriyat hizmetleri sunuyoruz. Deneyimli dalaman kepçeci operatörlerimiz ve geniş makine filomuzla temel kazısı, tesviye ve kiralık iş makineleri ihtiyaçlarınızda her zaman yanınızdayız.";
+  const description2 = settings?.aboutDescription2 || "Dalaman Orhanlar güvencesiyle yaptığımız tüm işlerde, müşteri memnuniyetini, dürüst ticareti ve iş güvenliğini üst düzeyde tutuyor, Dalaman'ın yapısını sağlam ellerle şekillendiriyoruz.";
   const image = settings?.aboutImage || 'https://res.cloudinary.com/orhanlar/image/upload/v1776005952/huzog36hnnmcvjz5ns5c.jpg';
   const experience = settings?.aboutExperience || "23+";
   const features = settings?.aboutFeatures || defaultFeatures;
@@ -85,7 +85,7 @@ export default function About() {
             <span className="text-brand-orange font-extrabold uppercase tracking-[0.2em] text-sm mb-4 block">
               {subtitle}
             </span>
-            <h2 className="text-3xl md:text-5xl font-black text-brand-dark mb-8 leading-tight" dangerouslySetInnerHTML={{ __html: title.replace('Güçlü Çözüm Ortağınız', '<span class="text-brand-orange">Güçlü Çözüm Ortağınız</span>') }}>
+            <h2 className="text-3xl md:text-5xl font-black text-brand-dark mb-8 leading-tight" dangerouslySetInnerHTML={{ __html: title.replace('Orhanlar Dalaman', '<span class="text-brand-orange">Orhanlar Dalaman</span>') }}>
             </h2>
             <p className="text-gray-600 text-lg mb-8 leading-relaxed">
               {description1}

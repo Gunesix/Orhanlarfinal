@@ -1,3 +1,4 @@
+import { Helmet } from 'react-helmet-async';
 import Header from '../components/Header';
 import Blog from '../components/Blog';
 import Footer from '../components/Footer';
@@ -5,6 +6,11 @@ import Footer from '../components/Footer';
 export default function BlogListPage() {
   return (
     <div className="min-h-screen flex flex-col">
+      <Helmet>
+        <title>Sektör Rehberi & Blog - Orhanlar Hafriyat Dalaman</title>
+        <meta name="description" content="Dalaman kazı işleri analizi, kepçeci kiralarken dikkat edilecek sırlar ve dalaman hafriyat süreçleri hakkında uzmanından altın tavsiyeler." />
+        <meta name="keywords" content="dalaman kazı işleri rehberi, dalaman kepçeci makaleleri, hafriyat dalaman blog, orhanlar dalaman yazıları" />
+      </Helmet>
       <Header />
       <main className="flex-grow">
         <div className="bg-gray-50 pt-10">

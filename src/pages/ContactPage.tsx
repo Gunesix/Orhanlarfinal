@@ -1,3 +1,4 @@
+import { Helmet } from 'react-helmet-async';
 import Header from '../components/Header';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
@@ -5,6 +6,11 @@ import Footer from '../components/Footer';
 export default function ContactPage() {
   return (
     <div className="min-h-screen flex flex-col">
+      <Helmet>
+        <title>İletişim & Teklif Al - Orhanlar Hafriyat Dalaman</title>
+        <meta name="description" content="Dalaman kazı işleri fiyatları ve dalaman kepçeci kiralama teklifleri için Orhanlar Dalaman Hafriyat ile hemen iletişime geçin. 7/24 kesintisiz hizmet hattımız." />
+        <meta name="keywords" content="dalaman kepçeci telefon, dalaman hafriyat iletişim, dalaman kazı işleri teklif, orhanlar dalaman telefon" />
+      </Helmet>
       <Header />
       <main className="flex-grow">
         <div className="bg-gray-50 pt-10">

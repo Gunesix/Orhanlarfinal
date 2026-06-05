@@ -16,13 +16,13 @@ export default function Services() {
 
   const defaultServices = [
     {
-      title: 'Hafriyat ve Kazı',
-      description: 'Bina temelleri, yol yapımı ve kanal kazıları için profesyonel çözümler.',
+      title: 'Dalaman Kazı İşleri & Hafriyat',
+      description: 'Dalaman kazı işleri ve hafriyat ihtiyaçlarınızda; bina temeli, yol yapımı ve kanal kazıları için güvenilir Orhanlar Dalaman çözümleri.',
       icon: 'Pickaxe',
     },
     {
-      title: 'Kepçe Kiralama',
-      description: 'Operatörlü veya operatörsüz, ihtiyacınıza uygun modern iş makinesi kiralama.',
+      title: 'Dalaman Kepçeci & Kiralık Kepçe',
+      description: 'Dalaman kepçeci ve kiralık kepçe talepleriniz için; donanımlı filomuz ve tecrübeli operatör kadromuzla saatlik veya günlük kiralama hizmeti.',
       icon: 'Shovel',
     },
     {
